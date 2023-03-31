@@ -1,0 +1,8 @@
+1)  User.objects.create_user('Алексей')
+    User.objects.create_user('Иван')
+
+4) Category.objects.create(name = 'Политика')
+   Category.objects.create(name = 'Культура')
+   Category.objects.create(name = 'Спорт')
+   Category.objects.create(name = 'Экономика')
+
